@@ -1,0 +1,6 @@
+﻿  skhello.cpp
+f:\skialib-master\vs9\skiahello\skhello.cpp(86): warning C4244: “初始化”: 从“SkScalar”转换到“int”，可能丢失数据
+f:\skialib-master\vs9\skiahello\skhello.cpp(87): warning C4244: “初始化”: 从“SkScalar”转换到“int”，可能丢失数据
+f:\skialib-master\vs9\skiahello\skhello.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(125): note: 参见“strcpy”的声明
+  skiahello.vcxproj -> F:\SkiaLib-master\vs9\Debug\skiahello.exe
